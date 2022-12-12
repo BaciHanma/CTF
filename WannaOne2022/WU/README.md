@@ -53,7 +53,12 @@ Có thể thấy chiều dài ảnh là 853 (0x355 in Hex). Chúng ta sẽ sửa
 Và Nooooo! Vẫn chưa hết! lại ra một đoạn mã morse ở phía dưới. 
 Sau khi decode đoạn mã morse này sẽ ra flag?? Không! Vẫn chưa hết! Ra một [link pastebin](https://kt.gy/tools.html#conv/https%3A%2F%2Fpastebin.com%2Fraw%2FM0V3YD43).
 Tưởng rằng mọi thứ đã xong nhưng không. Phải tìm đúng url của pastebin nữa :( .
-Có thể tham khảo code tìm của mình: [brute.py]()
-Sau khi tìm được đúng url. Ta được một link drive dẫn đến một file âm thanh.
+Có thể tham khảo code tìm của mình: [brute.py](https://github.com/northern-cyber/CTF/blob/main/WannaOne2022/WU/brute.py)
+Sau khi tìm được đúng url. Ta được một [link drive](https://drive.google.com/file/d/1HrY6vWcSAOTXQT-DgOKc1E4VHDXqhfKY/view) dẫn đến một file âm thanh.
+Để tìm được flag các bạn có thể tải app ***robot36*** trên android để thu sóng phát ra từ file âm thanh:
+
+![image](https://user-images.githubusercontent.com/65294114/207100077-e6595c51-929e-4071-94b0-b40046c997e5.png)
+
+![image](https://user-images.githubusercontent.com/65294114/207100727-88d1433c-0d02-4efb-a59e-49c7894a1299.png)
 
 
