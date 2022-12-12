@@ -5,7 +5,7 @@
 ![](https://github.com/northern-cyber/CTF/blob/main/WannaOne2022/WU/decode-get-flag.png)
 
 Với tên file là "decode-get-flag" có thể nhiều bạn sẽ tìm cách để lấy được các mã base64 mà tác giả viết ở trong ảnh và thử decode. Nếu bạn làm vậy thì chúc mừng bạn.
-Đây là flag: [Flag Xịnnnnn](https://bit.ly/3Wd1Myu)
+Đây là flag: [Flag Xịnnnnn]([https://bit.ly/3Wd1Myu](https://www.google.com/search?q=h%C3%ACnh+troll&sxsrf=ALiCzsazNaa9xanTQWF49caNg3sokJBp8Q:3667008736853&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj4zOO8q4T7AhUl-jgGHahNBNoQ_AUoAXoECAIQAw&biw=730&bih=981&dpr=0.94#io.rc=BDbujqGIWFYSZM))
 
 Đùa chút thôi, mình cũng đã thử lấy hết các đoạn base64 trong ảnh nhưng tất cả đều vô nghĩa.
 
