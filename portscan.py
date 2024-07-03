@@ -1,4 +1,5 @@
 import requests
+import ipaddress
 
 def scan_http(ip,port,timeout):
     
